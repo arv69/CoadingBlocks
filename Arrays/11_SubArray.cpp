@@ -21,7 +21,8 @@ using namespace std;
 
 // sub array of length 4
 // 1,2,3,4
-
+// first it will work start i then it will complete full j loop then it will complete full k loop
+// then again it goes to a i loop when i =2 then complete j loop then it will complete full k loop
 
 int main()
 {
