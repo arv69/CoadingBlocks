@@ -24,7 +24,7 @@ using namespace std;
 // first it will work start i then it will complete full j loop then it will complete full k loop
 // then again it goes to a i loop when i =2 then complete j loop then it will complete full k loop
 
-NO of sub array = n(n+1)/2
+// NO of sub array = n(n+1)/2
 int main()
 {
    int arr[5];
